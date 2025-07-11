@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_vituals_choose_us_points",
+  "info": {
+    "displayName": "Choose us Points",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

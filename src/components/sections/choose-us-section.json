@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_sections_choose_us_sections",
+  "info": {
+    "displayName": "ChooseUsSection",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "heroImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "chooseUsActionPoints": {
+      "type": "component",
+      "component": "vituals.choose-us-points",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

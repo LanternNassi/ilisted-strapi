@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_blogging_market_news",
+  "info": {
+    "displayName": "Market News",
+    "icon": "slideshow"
+  },
+  "options": {},
+  "attributes": {
+    "Area": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Headline_image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,17 @@
+{
+    "collectionName": "components_blogging_faqs",
+    "info": {
+        "displayName": "FAQ",
+        "icon": "oneToOne"
+    },
+    "options": {},
+    "attributes": {
+        "Question": {
+            "type": "string"
+        },
+        "Answer": {
+            "type": "text"
+        }
+    },
+    "config": {}
+}

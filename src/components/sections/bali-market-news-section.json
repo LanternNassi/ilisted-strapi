@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_bali_market_news_sections",
+  "info": {
+    "displayName": "Bali Market News Section",
+    "icon": "microphone"
+  },
+  "options": {},
+  "attributes": {
+    "News": {
+      "type": "component",
+      "component": "blogging.market-news",
+      "repeatable": true
+    },
+    "Title": {
+      "type": "string"
+    },
+    "SubTitle": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

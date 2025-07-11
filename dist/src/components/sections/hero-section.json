@@ -1,0 +1,27 @@
+{
+    "collectionName": "components_sections_hero_sections",
+    "info": {
+        "displayName": "Hero Section",
+        "icon": "dashboard"
+    },
+    "options": {},
+    "attributes": {
+        "Title": {
+            "type": "string"
+        },
+        "SubTitle": {
+            "type": "string"
+        },
+        "HeroBackground": {
+            "type": "media",
+            "multiple": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        }
+    },
+    "config": {}
+}
